@@ -1,2 +1,1 @@
-from .dbconfigs import dbconn
-from .modelsconfigs import *
+from dbconn import db_configuration, db_connection

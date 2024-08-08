@@ -1,2 +1,1 @@
-from .configs.dbconfigs import *
-from .configs.modelsconfigs import *
+from .configs import *
